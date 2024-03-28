@@ -1,0 +1,5 @@
+In this assignment, I used the random forest algorithm to build a machine learning model that predicts the tip amount using the NYC Green Taxi 
+Trip Records data for February 2020. 
+
+Here is a link to the accompanying data dictionary. 
+Data Source: https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2020-02.parquet
