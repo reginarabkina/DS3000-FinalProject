@@ -12,4 +12,3 @@ also be evaluated. ​
 * Code
 * Project Presentation Board
 * Dataset used
-* Video of Project Presentation
